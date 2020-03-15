@@ -23,7 +23,7 @@
   ],
   "dependencies": {
     "child-process-promise": "2.2.1",
-    "chokidar": "2.0.3",
+    "chokidar": "2.1.8",
     "classnames": "2.2.5",
     "csv-parse": "2.2.0",
     "csv-stringify": "3.0.0",

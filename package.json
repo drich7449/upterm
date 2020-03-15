@@ -25,7 +25,7 @@
     "child-process-promise": "2.2.1",
     "chokidar": "2.0.3",
     "classnames": "2.2.5",
-    "csv-parse": "2.2.0",
+    "csv-parse": "2.5.0",
     "csv-stringify": "3.0.0",
     "dirStat": "0.0.2",
     "font-awesome": "4.7.0",

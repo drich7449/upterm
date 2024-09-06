@@ -37,7 +37,7 @@
     "monaco-editor": "vlad-shatskyi/monaco-editor",
     "node-ansiparser": "2.2.0",
     "node-pty": "0.7.4",
-    "react": "16.2.0",
+    "react": "16.5.0",
     "react-dom": "16.2.0",
     "rxjs": "5.5.8",
     "tinycolor2": "1.4.1"
